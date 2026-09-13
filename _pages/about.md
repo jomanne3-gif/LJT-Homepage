@@ -38,4 +38,8 @@ author_profile: true
 Publications are also listed on the [Publications](/publications/) page.
 
 1. **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** (2025, arXiv). First author. Co-authors: Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He.
-2. **On the Perception Bottleneck of VLMs for Chart Understanding** (202 Forking...
+2. **On the Perception Bottleneck of VLMs for Chart Understanding** (2025, arXiv). First author. Co-authors: Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He. [GitHub: Vision4Chart](https://github.com/Vicent0205/Vision4Chart)
+3. **On the Universal Truthfulness Hyperplane Inside LLMs** (2024, EMNLP 2024). First author. Co-authors: Shiqi Chen, Yu Cheng, Junxian He. [GitHub: Universal_Truthfulness_Hyperplane](https://github.com/Vicent0205/Universal_Truthfulness_Hyperplane)
+4. **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation** (2024, ICML 2024). Co-authors: Shiqi Chen, Miao Xiong, Junteng Liu, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He.
+5. **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models** (2023, NeurIPS 2023). Co-authors: Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, Junteng Liu, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He.
+6. **Composing Parameter-Efficient Modules with Arithmetic Operations** (2023, NeurIPS 2023). Co-authors: Jinghan Zhang, Shiqi Chen, Junteng Liu, Junxian He.
