@@ -1,11 +1,13 @@
 ---
 layout: archive
-title: "Page Archive"
-permalink: /page-archive/
-author_profile: false
+title: "Pages"
+permalink: /pages/
+author_profile: true
 ---
 
 {% include base_path %}
-{% for post in site.pages %}
-  {% include archive-single.html %}
+
+{% for page in site.pages %}
+  <h2>{{ page.title }}</h2>
+  <p>{{ page.excerpt }}</p>
 {% endfor %}
